@@ -1,0 +1,2 @@
+Pre entrega Nro 5
+Este repositorio contiene el script preentrega_analisis_avanzado.sql para PostgreSQL, el cual procesa las tablas de clientes, productos y ventas mediante CTEs y funciones de ventana para generar un reporte mensual que detalla las ventas totales, rankings por categoría, acumulados históricos y una evaluación de rendimiento condicional con las etiquetas "Exitoso" o "Bajo el promedio".
